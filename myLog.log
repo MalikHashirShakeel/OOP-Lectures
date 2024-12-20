@@ -1,0 +1,11 @@
+2024-07-03 20:15:22,141 : take_input : WARNING : This input may cause error.
+2024-07-03 20:15:22,142 : <module> : ERROR : Something went wrong.
+Traceback (most recent call last):
+  File "e:\OOP Lectures After Mids\Event_Logging_in_Python_2.py", line 46, in <module>
+    division = 1 / value
+               ~~^~~~~~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-07-03 20:16:12,926 : take_input : INFO : True value entered!
+2024-07-03 20:16:18,245 : take_input : INFO : True value entered!
+2024-11-17 19:57:01,121 : take_input : INFO : True value entered!
+2024-11-17 19:57:09,239 : take_input : INFO : True value entered!

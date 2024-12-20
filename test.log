@@ -1,0 +1,11 @@
+2024-07-03 19:40:16,253 : DEBUG : root : This is a debug level message.
+2024-07-03 19:49:55,882 : INFO : root : True value entered!
+2024-07-03 19:50:38,716 : WARNING : root : This input may cause error.
+2024-07-03 19:51:43,694 : WARNING : root : This input may cause error.
+2024-07-03 19:51:43,695 : ERROR : root : Something went wrong.
+Traceback (most recent call last):
+  File "e:\OOP Lectures After Mids\Event_Logging_in_Python_2.py", line 16, in <module>
+    division = 1 / value
+               ~~^~~~~~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+2024-07-03 19:52:35,646 : INFO : root : True value entered!
